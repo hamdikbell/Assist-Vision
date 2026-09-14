@@ -69,7 +69,7 @@ Click **Start** and allow camera access in your browser.
 
 ## 👩‍💻 Author
 
-**Your Name** — Data Science & AI Engineering Student
+**Ikbel Hamdi** — Data Science & AI Engineering Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/ikbel-hamdi-706427286)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/hamdikbell)
