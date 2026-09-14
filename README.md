@@ -36,7 +36,7 @@ assist-vision/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/hamdikbell/assist-vision.git
+git clone https://github.com/hamdikbell/Assist-Vision.git
 cd assist-vision
 ```
 
